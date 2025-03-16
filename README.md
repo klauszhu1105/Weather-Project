@@ -38,19 +38,7 @@ LSTM outperformed the other models, showing the lowest error rates.
 
 ### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter Notebook or script to process and analyze the data.
+Run the Jupyter Notebook or script to process and analyze the data.
 
 ### Usage
 
